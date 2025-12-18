@@ -1,1 +1,12 @@
-
+.block{
+  background: lightblue;
+}
+.box1 {
+  background: #CDCDCD;
+}
+.box2 {
+  background: rgba(25, 210, 40, 1);
+}
+box3 {
+  background: #979797;
+}
